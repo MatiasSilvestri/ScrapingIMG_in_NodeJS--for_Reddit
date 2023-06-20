@@ -6,5 +6,5 @@
 
 Web scraping that allows you to search Reddit for images on the subject entered by input.
 
-### made by:
+### made by: 
 MattS.dev
