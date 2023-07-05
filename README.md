@@ -1,4 +1,4 @@
-# Web_Scraping_in_NodeJS--for_Reddit
+# ScrapingIMG_in_NodeJS--for_Reddit
 
 # Web Scraping with Nodejs
 - cheerio
